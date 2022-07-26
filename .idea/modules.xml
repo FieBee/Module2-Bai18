@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BT-Car/BT-Car.iml" filepath="$PROJECT_DIR$/BT-Car/BT-Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-DemSo/BT-DemSo.iml" filepath="$PROJECT_DIR$/BT-DemSo/BT-DemSo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai18.iml" filepath="$PROJECT_DIR$/.idea/Bai18.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-TaoLuongBangRunnable/TH-TaoLuongBangRunnable.iml" filepath="$PROJECT_DIR$/TH-TaoLuongBangRunnable/TH-TaoLuongBangRunnable.iml" />
     </modules>
